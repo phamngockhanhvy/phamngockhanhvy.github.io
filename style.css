@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    text-align: center;
+    background:url('./galaxy-background-rocket-flying-vector.jpg') no-repeat;
+    background-size: cover;
+    font-family: 'Lobster', cursive;
+}
+.container{
+    color: white;
+}
+h1{
+    margin: 3rem;
+    font-size: 3rem;
+
+} 
+h2 {
+    margin: 2rem;
+}
+a {
+    text-decoration: none;
+    color: rgb(133, 133, 133);
+    font-size: 20px;
+    transition: 0.5s;
+}
+a:hover {
+    color: white;
+
+}
+ul {
+    list-style: none;
+}
+li {
+    margin: 50px 0 20px 0;
+}
